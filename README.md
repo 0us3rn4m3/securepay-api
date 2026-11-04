@@ -1,12 +1,3 @@
-# SecurePay Solutions — Core Payment API (Baseline Legacy)
-
-> **Projet Certifiant MSPR 4.1 :** Industrialisation et Sécurisation d'une Pipeline CI/CD  
-> **Établissement :** Sup de Vinci — Mastère DevOps (M1)  
-> **Titre RNCP :** RNCP 40165 - Bloc 5 : *Piloter l'alignement stratégique entre architectures et DevSecOps*  
-> **Pondération :** 50% de la note finale du module (avec soutenance orale et live-demo)
-
----
-
 ## 1. Contexte Métier & Scénario d'Entreprise
 
 Vous venez d'être recrutés en tant qu'**Ingénieurs Platform & DevSecOps** au sein de **SecurePay Solutions**, une FinTech en forte croissance fournissant des API de paiement pour le e-commerce.
